@@ -1,3 +1,3 @@
 # hola
 mi primer repositorio
-me gusta la :pizza:, el :mate: y la :carne asada:
+me gusta la :pizza:, el :mate: y la :musica:
